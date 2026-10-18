@@ -13,9 +13,7 @@ children: React.ReactNode;
 return (
 
 
-{/* Tailwind CSS Script CDN /}
 
-{/ FontAwesome Icon Library */}
 
 
 
